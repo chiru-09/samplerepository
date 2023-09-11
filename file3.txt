@@ -1,1 +1,2 @@
 this is the parctice for git hub to local system copy 
+to fetch the data from git to local
